@@ -1,0 +1,46 @@
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.dll
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.pdb
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.dll
+C:\HUERGO\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.pdb
+C:\Users\huergo\Desktop\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.dll
+C:\Users\huergo\Desktop\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.pdb
+C:\Users\huergo\Desktop\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.dll
+C:\Users\huergo\Desktop\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.pdb
+C:\Users\huergo\Desktop\TutuCanchas_GP1-20190909T230456Z-001-20190916T225954Z-001\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.dll
+C:\Users\huergo\Desktop\TutuCanchas_GP1-20190909T230456Z-001-20190916T225954Z-001\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.pdb
+C:\Users\huergo\Desktop\TutuCanchas_GP1-20190909T230456Z-001-20190916T225954Z-001\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.dll
+C:\Users\huergo\Desktop\TutuCanchas_GP1-20190909T230456Z-001-20190916T225954Z-001\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.pdb
+C:\Users\Sistemas\Desktop\VALLARINO\Ultimaver 16-09 tutucanchas\TutuCanchas_GP1-20190909T230456Z-001-20190916T225954Z-001\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.dll
+C:\Users\Sistemas\Desktop\VALLARINO\Ultimaver 16-09 tutucanchas\TutuCanchas_GP1-20190909T230456Z-001-20190916T225954Z-001\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.pdb
+C:\Users\Sistemas\Desktop\VALLARINO\Ultimaver 16-09 tutucanchas\TutuCanchas_GP1-20190909T230456Z-001-20190916T225954Z-001\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas\Desktop\VALLARINO\Ultimaver 16-09 tutucanchas\TutuCanchas_GP1-20190909T230456Z-001-20190916T225954Z-001\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.dll
+C:\Users\Sistemas\Desktop\VALLARINO\Ultimaver 16-09 tutucanchas\TutuCanchas_GP1-20190909T230456Z-001-20190916T225954Z-001\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.pdb
+C:\Users\Diego\Desktop\18-9\VALLARINO\Ultimaver 16-09 tutucanchas\TutuCanchas_GP1-20190909T230456Z-001-20190916T225954Z-001\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.dll
+C:\Users\Diego\Desktop\18-9\VALLARINO\Ultimaver 16-09 tutucanchas\TutuCanchas_GP1-20190909T230456Z-001-20190916T225954Z-001\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.pdb
+C:\Users\Diego\Desktop\18-9\VALLARINO\Ultimaver 16-09 tutucanchas\TutuCanchas_GP1-20190909T230456Z-001-20190916T225954Z-001\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\18-9\VALLARINO\Ultimaver 16-09 tutucanchas\TutuCanchas_GP1-20190909T230456Z-001-20190916T225954Z-001\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.dll
+C:\Users\Diego\Desktop\18-9\VALLARINO\Ultimaver 16-09 tutucanchas\TutuCanchas_GP1-20190909T230456Z-001-20190916T225954Z-001\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.pdb
+C:\Users\Juancito\Desktop\18-9\VALLARINO\Ultimaver 16-09 tutucanchas\TutuCanchas_GP1-20190909T230456Z-001-20190916T225954Z-001\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.dll
+C:\Users\Juancito\Desktop\18-9\VALLARINO\Ultimaver 16-09 tutucanchas\TutuCanchas_GP1-20190909T230456Z-001-20190916T225954Z-001\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.pdb
+C:\Users\Juancito\Desktop\18-9\VALLARINO\Ultimaver 16-09 tutucanchas\TutuCanchas_GP1-20190909T230456Z-001-20190916T225954Z-001\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.dll
+C:\Users\Juancito\Desktop\18-9\VALLARINO\Ultimaver 16-09 tutucanchas\TutuCanchas_GP1-20190909T230456Z-001-20190916T225954Z-001\TutuCanchas_GP1-20190909T230456Z-001\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.pdb
+C:\Users\Sistemas\Desktop\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.dll
+C:\Users\Sistemas\Desktop\TutuCanchas_GP1\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.pdb
+C:\Users\Sistemas\Desktop\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas\Desktop\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.dll
+C:\Users\Sistemas\Desktop\TutuCanchas_GP1\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.pdb
+C:\Users\huergo\Desktop\NuevaVerSION\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.dll
+C:\Users\huergo\Desktop\NuevaVerSION\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.pdb
+C:\Users\huergo\Desktop\NuevaVerSION\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.csprojResolveAssemblyReference.cache
+C:\Users\huergo\Desktop\NuevaVerSION\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.dll
+C:\Users\huergo\Desktop\NuevaVerSION\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.pdb
+C:\Users\Diego\Desktop\NuevaVerSION\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.dll
+C:\Users\Diego\Desktop\NuevaVerSION\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.pdb
+C:\Users\Diego\Desktop\NuevaVerSION\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\NuevaVerSION\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.dll
+C:\Users\Diego\Desktop\NuevaVerSION\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.pdb
+C:\Users\Diego\Desktop\TP TUTU CANCHAS - TIGRESA DEL ORIENTE\TP TUTU CANCHAS - TIGRESA DEL ORIENTE\NuevaVerSION3\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.dll
+C:\Users\Diego\Desktop\TP TUTU CANCHAS - TIGRESA DEL ORIENTE\TP TUTU CANCHAS - TIGRESA DEL ORIENTE\NuevaVerSION3\TutuCanchas.DTO\bin\Debug\TutuCanchas.DTO.pdb
+C:\Users\Diego\Desktop\TP TUTU CANCHAS - TIGRESA DEL ORIENTE\TP TUTU CANCHAS - TIGRESA DEL ORIENTE\NuevaVerSION3\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\TP TUTU CANCHAS - TIGRESA DEL ORIENTE\TP TUTU CANCHAS - TIGRESA DEL ORIENTE\NuevaVerSION3\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.dll
+C:\Users\Diego\Desktop\TP TUTU CANCHAS - TIGRESA DEL ORIENTE\TP TUTU CANCHAS - TIGRESA DEL ORIENTE\NuevaVerSION3\TutuCanchas.DTO\obj\Debug\TutuCanchas.DTO.pdb
